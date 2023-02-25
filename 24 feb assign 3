@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+int i,j=4;for(i=1,j=4;i<=4&&j>=1;i++ j--)
+{
+printf("%d%d\n",i,j);
+}
+}
